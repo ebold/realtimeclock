@@ -1,3 +1,4 @@
-/rtc
 bin
 .metadata
+.project
+.cproject
